@@ -1,0 +1,699 @@
+{
+    "_number": 28617945,
+    "_clientCloseTs": "10\/05\/2021 12:08:13 -05:00",
+    "numeroLote": "202105006303",
+    "codigoEmpresa": "[001650] INMEL ",
+    "territorioCodigo": "05",
+    "territorioName": "Magdalena",
+    "tipoOrdenServicio": {
+        "displayName": "REVISION SUMINISTROMEDIDOR MD (CAMP)",
+        "id": "_TO253"
+    },
+    "tipoServicio": {
+        "displayName": "ENERGIA REGULADA",
+        "id": "___tip_ser_100"
+    },
+    "comentario1": "FOCALIZADO INMEL",
+    "comentario2": null,
+    "direccion": "CL 1A NO. 8E 20",
+    "nic": 6209090,
+    "tipoCliente": {
+        "displayName": "REGULADOS RESIDENCIAL",
+        "id": "__tip_cli_REG"
+    },
+    "estrato": {
+        "displayName": "1",
+        "id": "__est1"
+    },
+    "codigoTarifa": "R11",
+    "cargaContratada": 775,
+    "deuda": 1789430,
+    "deudaNumeroRecibos": 31,
+    "deudaFechaMin": "16\/07\/2018 -05:00",
+    "deudaFechaMax": "15\/04\/2021 -05:00",
+    "departamento": "ARACATACA",
+    "municipio": "ARACATACA",
+    "localidad": "GALAN",
+    "tipoVia": {
+        "displayName": "CL",
+        "id": "__TV003"
+    },
+    "calle": "1A",
+    "numeroPuerta": "20",
+    "duplicador": "8E",
+    "piso": null,
+    "referenciaDireccion": "ENTRE CR 9E Y 8E",
+    "acceso": null,
+    "numeroCircuito": "A075374",
+    "matriculaCT": "P2565",
+    "fotoFachada": [
+        {
+            "id": "ca9f9760e53f519a42134530c32c0f36",
+            "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/ca9f9760e53f519a42134530c32c0f36"
+        },
+        {
+            "id": "d2a8937022de811d93d503980f2ecf19",
+            "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/d2a8937022de811d93d503980f2ecf19"
+        }
+    ],
+    "nombreOperario": "Meldry Cervantes Diaz",
+    "apellido1Operario": null,
+    "apellido2Operario": null,
+    "cedulaOperario": "1081802776",
+    "empresaOperario": "INMEL",
+    "nombreTitularContrato": "JUANA",
+    "apellido1TitularContrato": "CASTRO",
+    "apellido2TitularContrato": "TONO",
+    "cedulaTitularContrato": null,
+    "telefonoFijoTitularContrato": "3008251439",
+    "telefonoMovilTitularContrato": null,
+    "emailTitularContrato": null,
+    "relacionReceptorVisita": {
+        "displayName": "No identificado",
+        "id": "__rel_tit_no_ide"
+    },
+    "solicitaTecnicoReceptorVisita": null,
+    "aportaTestigo": null,
+    "nombreReceptorVisita": "cliente se nego a firmar o a identificarse",
+    "apellido1ReceptorVisita": null,
+    "apellido2ReceptorVisita": null,
+    "cedulaReceptorVisita": "no suministro",
+    "telefonoFijoReceptorVisita": null,
+    "telefonoMovilReceptorVisita": null,
+    "emailReceptorVisita": null,
+    "nombreTecnico": null,
+    "apellido1Tecnico": null,
+    "apellido2Tecnico": null,
+    "cedulaTecnico": null,
+    "comteTecnico": null,
+    "nombreTestigo": "no fue posible conseguir un",
+    "apellido1Testigo": null,
+    "apellido2Testigo": null,
+    "cedulaTestigo": "testigo de los hecho",
+    "aparatosExistentes": [
+        {
+            "tipoRevision": {
+                "displayName": "Revisi\u00f3n",
+                "id": "__rev_apa_rev"
+            },
+            "numero": "3838466",
+            "marca": {
+                "displayName": "ACTARIS TIPO 1",
+                "id": "__MC879"
+            },
+            "tipo": {
+                "displayName": "ACTIVA",
+                "id": "__TA011"
+            },
+            "tecnologia": {
+                "displayName": "Electromecanico",
+                "id": "__elecmec"
+            },
+            "propietario": null,
+            "numeroCertificadoCalibracion": null,
+            "laboratorio": null,
+            "protocolo": null,
+            "resolucionAcreditacion": null,
+            "resolucionFecha": null,
+            "lecturaUltimaFecha": "15\/04\/2021 -05:00",
+            "lecturaUltima": 20533,
+            "lecturaActual": 20722,
+            "fotografiaVueltaContador": null,
+            "kdkh_tipo": {
+                "displayName": "Kh (Wh\/Rev)",
+                "id": "__kh"
+            },
+            "kdkh_value": 555,
+            "digitos": {
+                "displayName": "5",
+                "id": "__dc_5"
+            },
+            "decimales": {
+                "displayName": "2",
+                "id": "__dec_2"
+            },
+            "nFases": {
+                "displayName": "1F2H",
+                "id": "__1f2h"
+            },
+            "voltajeNominal": {
+                "displayName": "120",
+                "id": "__vn_120"
+            },
+            "rangoCorrienteMin": 15,
+            "rangoCorrienteMax": 60,
+            "fotosAparato": [
+                {
+                    "id": "4aa9312ee38fbd97ad7d2d7998ab1930",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/4aa9312ee38fbd97ad7d2d7998ab1930"
+                },
+                {
+                    "id": "565a98092bec0fedc620ff7802d7daf7",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/565a98092bec0fedc620ff7802d7daf7"
+                }
+            ],
+            "sellosExistentes": [
+                {
+                    "numeroSerie": "000034906",
+                    "estado": {
+                        "displayName": "No encontrado",
+                        "id": "__est_sell_no_enc"
+                    },
+                    "posicion": null,
+                    "tipo": null,
+                    "color": null,
+                    "fotoSello": [
+                        {
+                            "id": "66dccb4a7f6f1ff5ef7da5fc54fcf18e",
+                            "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/66dccb4a7f6f1ff5ef7da5fc54fcf18e"
+                        }
+                    ]
+                }
+            ],
+            "sellosInstalados": null,
+            "corrienteN_mec": 0.7,
+            "corrienteFN_mec": null,
+            "voltageNT_mec": null,
+            "voltageRS_mec": null,
+            "voltageST_mec": null,
+            "voltageRT_mec": null,
+            "fotos_mec": [
+                {
+                    "id": "7b49abe7f9c722938f440577267373da",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/7b49abe7f9c722938f440577267373da"
+                },
+                {
+                    "id": "7f267747e9b39bf8455bec5537edc0da",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/7f267747e9b39bf8455bec5537edc0da"
+                },
+                {
+                    "id": "a9ef766f1b1d36034fb885d107d6c1c3",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/a9ef766f1b1d36034fb885d107d6c1c3"
+                },
+                {
+                    "id": "e8bbad729eaee5327587bf696d68265e",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/e8bbad729eaee5327587bf696d68265e"
+                }
+            ],
+            "voltageFNR_mec": 115,
+            "voltageFTR_mec": 115,
+            "corrienteR_mec": 0.7,
+            "voltageFNS_mec": null,
+            "voltageFTS_mec": null,
+            "corrienteS_mec": null,
+            "voltageFNT_mec": null,
+            "voltageFTT_mec": null,
+            "corrienteT_mec": null,
+            "pruebaAlta": {
+                "displayName": "AVM",
+                "id": "__avm"
+            },
+            "fotosPruebaAlta": [
+                {
+                    "id": "58ef878907d8abf8c66a027e8cd8adbb",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/58ef878907d8abf8c66a027e8cd8adbb"
+                },
+                {
+                    "id": "679e168c5e85b036678a44d9e9473bfe",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/679e168c5e85b036678a44d9e9473bfe"
+                },
+                {
+                    "id": "97685fa902a7e68e7850d6eb51eb279e",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/97685fa902a7e68e7850d6eb51eb279e"
+                }
+            ],
+            "voltageFNR_alta": 114,
+            "corrienteR_alta": 28,
+            "vueltasR_alta": null,
+            "tiempoR_alta": null,
+            "voltageFNS_alta": null,
+            "corrienteS_alta": null,
+            "vueltasS_alta": null,
+            "tiempoS_alta": null,
+            "voltageFNT_alta": null,
+            "corrienteT_alta": null,
+            "vueltasT_alta": null,
+            "tiempoT_alta": null,
+            "errorPruebaAVMR_alta": -2.54,
+            "errorPruebaAVMS_alta": null,
+            "errorPruebaAVMT_alta": null,
+            "errorPruebaR_alta": -2.54,
+            "errorPruebaS_alta": null,
+            "errorPruebaT_alta": null,
+            "pruebaBaja": {
+                "displayName": "AVM",
+                "id": "__avm"
+            },
+            "fotosPruebaBaja": [
+                {
+                    "id": "22b43928c1fcf5073e9aa893a541eea0",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/22b43928c1fcf5073e9aa893a541eea0"
+                },
+                {
+                    "id": "80a401db276484b1818e1560ece73a15",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/80a401db276484b1818e1560ece73a15"
+                }
+            ],
+            "voltageFNR_baja": 115,
+            "corrienteR_baja": 2.3,
+            "vueltasR_baja": null,
+            "tiempoR_baja": null,
+            "voltageFNS_baja": null,
+            "corrienteS_baja": null,
+            "vueltasS_baja": null,
+            "tiempoS_baja": null,
+            "voltageFNT_baja": null,
+            "corrienteT_baja": null,
+            "vueltasT_baja": null,
+            "tiempoT_baja": null,
+            "errorPruebaAVMR_baja": 0.6,
+            "errorPruebaAVMS_baja": null,
+            "errorPruebaAVMT_baja": null,
+            "errorPruebaR_baja": 0.6,
+            "errorPruebaS_baja": null,
+            "errorPruebaT_baja": null,
+            "pruebaDosificacion": {
+                "displayName": "AVM",
+                "id": "__avm"
+            },
+            "fotosPruebaDosificacion": [
+                {
+                    "id": "15b1dfc541d2479462342496cdd473a8",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/15b1dfc541d2479462342496cdd473a8"
+                },
+                {
+                    "id": "64865033bfd18e157cdf068f59ac00ba",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/64865033bfd18e157cdf068f59ac00ba"
+                }
+            ],
+            "voltageFNR_dosif": 114,
+            "corrienteR_dosif": 28,
+            "lecturaInicialR_dosif": 20722.7,
+            "lecturaFinalR_dosif": 20722.8,
+            "tiempoR_dosif": null,
+            "voltageFNS_dosif": null,
+            "corrienteS_dosif": null,
+            "lecturaInicialS_dosif": null,
+            "lecturaFinalS_dosif": null,
+            "tiempoS_dosif": null,
+            "voltageFNT_dosif": null,
+            "corrienteT_dosif": null,
+            "lecturaInicialT_dosif": null,
+            "lecturaFinalT_dosif": null,
+            "tiempoT_dosif": null,
+            "errorPruebaAVMR_dosif": 1.56,
+            "errorPruebaR_dosif": 1.56,
+            "giroNormal": true,
+            "rozamiento": false,
+            "medidorFrena": false,
+            "estadoConexiones": true,
+            "continuidad": true,
+            "pruebaPuentes": true,
+            "display": null,
+            "estadoIntegrador": true,
+            "retirado": true,
+            "envioLab": {
+                "displayName": "Laboratorio",
+                "id": "__ret_lab"
+            },
+            "envioLabNumCustodia": "BP002637",
+            "envioLabFotos": [
+                {
+                    "id": "0b5aa2a66651e6e0d2082b50437bd3ee",
+                    "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/0b5aa2a66651e6e0d2082b50437bd3ee"
+                }
+            ]
+        }
+    ],
+    "aparatosInstalados": [
+        {
+            "tipoRevision": null,
+            "numero": "19205010",
+            "marca": {
+                "displayName": "LINYANG LYBM12",
+                "id": "__MCA59"
+            },
+            "tipo": {
+                "displayName": "ACTIVA",
+                "id": "__TA011"
+            },
+            "tecnologia": null,
+            "propietario": {
+                "displayName": "CLIENTE",
+                "id": "__PA001"
+            },
+            "numeroCertificadoCalibracion": null,
+            "laboratorio": "onac",
+            "protocolo": "2434751",
+            "resolucionAcreditacion": null,
+            "resolucionFecha": null,
+            "lecturaUltimaFecha": null,
+            "lecturaUltima": null,
+            "lecturaActual": 2,
+            "fotografiaVueltaContador": null,
+            "kdkh_tipo": null,
+            "kdkh_value": null,
+            "digitos": null,
+            "decimales": null,
+            "nFases": null,
+            "voltajeNominal": null,
+            "rangoCorrienteMin": null,
+            "rangoCorrienteMax": null,
+            "fotosAparato": null,
+            "sellosExistentes": null,
+            "sellosInstalados": [
+                {
+                    "numeroSerie": "2000003252",
+                    "estado": {
+                        "displayName": "Buen estado, se conserva",
+                        "id": "__est_sell_bue_est_con"
+                    },
+                    "posicion": {
+                        "displayName": "Bornera",
+                        "id": "__pos_sell_bornera"
+                    },
+                    "tipo": {
+                        "displayName": "Rotoseal de pinzas",
+                        "id": "__tip_sel_rospin"
+                    },
+                    "color": {
+                        "displayName": "Transparente",
+                        "id": "__transparente"
+                    },
+                    "fotoSello": null
+                },
+                {
+                    "numeroSerie": "2000003253",
+                    "estado": {
+                        "displayName": "Buen estado, se conserva",
+                        "id": "__est_sell_bue_est_con"
+                    },
+                    "posicion": {
+                        "displayName": "Caja",
+                        "id": "__pos_sell_caja"
+                    },
+                    "tipo": {
+                        "displayName": "Rotoseal de pinzas",
+                        "id": "__tip_sel_rospin"
+                    },
+                    "color": {
+                        "displayName": "Transparente",
+                        "id": "__transparente"
+                    },
+                    "fotoSello": null
+                },
+                {
+                    "numeroSerie": "1800015278",
+                    "estado": {
+                        "displayName": "Buen estado, se conserva",
+                        "id": "__est_sell_bue_est_con"
+                    },
+                    "posicion": {
+                        "displayName": "Tapa",
+                        "id": "__pos_sell_tapa"
+                    },
+                    "tipo": {
+                        "displayName": "Rotoseal de pinzas",
+                        "id": "__tip_sel_rospin"
+                    },
+                    "color": {
+                        "displayName": "Morado",
+                        "id": "__morado"
+                    },
+                    "fotoSello": null
+                }
+            ],
+            "corrienteN_mec": null,
+            "corrienteFN_mec": null,
+            "voltageNT_mec": null,
+            "voltageRS_mec": null,
+            "voltageST_mec": null,
+            "voltageRT_mec": null,
+            "fotos_mec": null,
+            "voltageFNR_mec": null,
+            "voltageFTR_mec": null,
+            "corrienteR_mec": null,
+            "voltageFNS_mec": null,
+            "voltageFTS_mec": null,
+            "corrienteS_mec": null,
+            "voltageFNT_mec": null,
+            "voltageFTT_mec": null,
+            "corrienteT_mec": null,
+            "pruebaAlta": null,
+            "fotosPruebaAlta": null,
+            "voltageFNR_alta": null,
+            "corrienteR_alta": null,
+            "vueltasR_alta": null,
+            "tiempoR_alta": null,
+            "voltageFNS_alta": null,
+            "corrienteS_alta": null,
+            "vueltasS_alta": null,
+            "tiempoS_alta": null,
+            "voltageFNT_alta": null,
+            "corrienteT_alta": null,
+            "vueltasT_alta": null,
+            "tiempoT_alta": null,
+            "errorPruebaAVMR_alta": null,
+            "errorPruebaAVMS_alta": null,
+            "errorPruebaAVMT_alta": null,
+            "errorPruebaR_alta": 0,
+            "errorPruebaS_alta": 0,
+            "errorPruebaT_alta": 0,
+            "pruebaBaja": null,
+            "fotosPruebaBaja": null,
+            "voltageFNR_baja": null,
+            "corrienteR_baja": null,
+            "vueltasR_baja": null,
+            "tiempoR_baja": null,
+            "voltageFNS_baja": null,
+            "corrienteS_baja": null,
+            "vueltasS_baja": null,
+            "tiempoS_baja": null,
+            "voltageFNT_baja": null,
+            "corrienteT_baja": null,
+            "vueltasT_baja": null,
+            "tiempoT_baja": null,
+            "errorPruebaAVMR_baja": null,
+            "errorPruebaAVMS_baja": null,
+            "errorPruebaAVMT_baja": null,
+            "errorPruebaR_baja": 0,
+            "errorPruebaS_baja": 0,
+            "errorPruebaT_baja": 0,
+            "pruebaDosificacion": null,
+            "fotosPruebaDosificacion": null,
+            "voltageFNR_dosif": null,
+            "corrienteR_dosif": null,
+            "lecturaInicialR_dosif": null,
+            "lecturaFinalR_dosif": null,
+            "tiempoR_dosif": null,
+            "voltageFNS_dosif": null,
+            "corrienteS_dosif": null,
+            "lecturaInicialS_dosif": null,
+            "lecturaFinalS_dosif": null,
+            "tiempoS_dosif": null,
+            "voltageFNT_dosif": null,
+            "corrienteT_dosif": null,
+            "lecturaInicialT_dosif": null,
+            "lecturaFinalT_dosif": null,
+            "tiempoT_dosif": null,
+            "errorPruebaAVMR_dosif": null,
+            "errorPruebaR_dosif": null,
+            "giroNormal": null,
+            "rozamiento": null,
+            "medidorFrena": null,
+            "estadoConexiones": null,
+            "continuidad": null,
+            "pruebaPuentes": null,
+            "display": null,
+            "estadoIntegrador": null,
+            "retirado": null,
+            "envioLab": null,
+            "envioLabNumCustodia": null,
+            "envioLabFotos": null
+        }
+    ],
+    "noAnomalias": false,
+    "anomalias": [
+        {
+            "displayName": "DA\u00d1O O RETIRO DE LOS EQUIPOS DE MEDIDA - Bornera del medidor quemada",
+            "id": "__anom_dan_ret_equ_med.__anom_bor_med_quem"
+        }
+    ],
+    "anomalias_observaciones": "medidor con la bornera recalentada ",
+    "fotosAnomalias": [
+        {
+            "id": "202284cc5ba153d2841ef87366fe0618",
+            "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/202284cc5ba153d2841ef87366fe0618"
+        },
+        {
+            "id": "5e07b0528e50b1c0835b1f1fe8b3d690",
+            "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/5e07b0528e50b1c0835b1f1fe8b3d690"
+        },
+        {
+            "id": "91e1a8ef213eb14ce0f6eb246621fe4b",
+            "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/91e1a8ef213eb14ce0f6eb246621fe4b"
+        },
+        {
+            "id": "c7d2447f7f0421a2e669c15d0b6daaf2",
+            "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/c7d2447f7f0421a2e669c15d0b6daaf2"
+        }
+    ],
+    "modoPagoTipo": {
+        "displayName": "Pendiente de laboratorio ",
+        "id": "__mod_pen_lab"
+    },
+    "modoPagoCuotas": 1,
+    "calCenCar_items": [
+        {
+            "displayName": "Abanico de Mesa",
+            "intValue": 2
+        },
+        {
+            "displayName": "Equipo de Sonido",
+            "intValue": 1
+        },
+        {
+            "displayName": "Foco (Bombillo) 100W",
+            "intValue": 2
+        },
+        {
+            "displayName": "Lampara fluorescente 20W",
+            "intValue": 2
+        },
+        {
+            "displayName": "Lavadora de Ropa pequena",
+            "intValue": 1
+        },
+        {
+            "displayName": "Licuadora",
+            "intValue": 1
+        },
+        {
+            "displayName": "Nevera mediana",
+            "intValue": 1
+        },
+        {
+            "displayName": "Televisor grande",
+            "intValue": 1
+        }
+    ],
+    "calCenCar_tipo": {
+        "displayName": "Dictado",
+        "id": "__cen_car_dic"
+    },
+    "calCenCar_cargaInstalada": 1.783,
+    "residuosRecolectados": true,
+    "clasificacionResiduos": true,
+    "ordenAseo": true,
+    "recibidoQuejas": false,
+    "atendidoQuejas": false,
+    "firmaReceptorVisita": null,
+    "firmaOperario": {
+        "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/signatures\/286179452\/firmaOperario"
+    },
+    "firmaTestigo": null,
+    "firmaTecnicoParticular": null,
+    "medidaAnomaliaTipo": null,
+    "medidaAnomaliaVR": null,
+    "medidaAnomaliaVS": null,
+    "medidaAnomaliaVT": null,
+    "medidaAnomaliaIR": null,
+    "medidaAnomaliaIS": null,
+    "medidaAnomaliaIT": null,
+    "fotosResguardo": [
+        {
+            "id": "033403318d980dd43733804438bd9fbb",
+            "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/033403318d980dd43733804438bd9fbb"
+        },
+        {
+            "id": "6108d5096995316724e03d1bfa9c6271",
+            "__URL__": "http:\/\/hgi.serviciossipremsol.co\/api\/media\/6108d5096995316724e03d1bfa9c6271"
+        }
+    ],
+    "observaciones": "VS: FECHA: 10\/05\/2021 11:32:19 ACTA: 157696 TECNICO: Meldry Cervantes Diaz; PREDIO: Ocupado - Con energ\u00eda; ATENDI\u00d3: cliente se nego a firmar o a identificarse; ; VM: MEDIDOR # 3838466 LECTURA: 20722 , CT: A075374 MT: P2565, , CENSO: 1.783 Kw. Dictado;  P. ALTA: R -2.54  P. BAJA: 0.60 ; RA: se encontro medidor caja y acometida concentrica se realizo revision al medidor con avm se encontro con la bornera recalentada se cambia para corregir irregularidad; LM: se envia medidor a laboratorio en bolsa de custodia BP002637 en espera de protocolo; CM: se instala medidor 19205010 sello bornera 2000003252 caja 2000003253 bolsa BP002637 se dejan electrodomesticos funcionando correctamente; MDV: se retiro medidor tipo1 emecan se envia a laboratorio. Cliente se nego a firmar o a identificarse; RI: medidor con la bornera recalentada; ",
+    "trabajos_ejecutados": [
+        {
+            "accion": "VS",
+            "cobrable": false,
+            "ejecutada": true,
+            "codigo": "AV094",
+            "valor": "X VERIF. DATOS SUMINISTRO<TPOS>",
+            "materiales": [],
+            "children": []
+        },
+        {
+            "accion": "VM",
+            "cobrable": false,
+            "ejecutada": true,
+            "codigo": "AV166",
+            "valor": "REVISADO REQUIERE NORMALIZACION CON MEDIDOR",
+            "materiales": [],
+            "children": [
+                {
+                    "accion": "LM",
+                    "cobrable": false,
+                    "ejecutada": true,
+                    "codigo": "AV036",
+                    "valor": "X LEV. DE MEDIDOR<TPOS>",
+                    "materiales": []
+                },
+                {
+                    "accion": "CM",
+                    "cobrable": false,
+                    "ejecutada": true,
+                    "codigo": "AV250",
+                    "valor": "INST. MEDIDOR",
+                    "materiales": [
+                        {
+                            "codigo": "3006006060",
+                            "valor": "ELECTRONICO T1 INTEGRAL",
+                            "grupo": "MEDIDORES",
+                            "cantidad": "1",
+                            "cobrable": false
+                        },
+                        {
+                            "codigo": "3015000800",
+                            "valor": "SELLO ROTOSEAL TRANSPARENTE",
+                            "grupo": "SELLOS",
+                            "cantidad": "2",
+                            "cobrable": false
+                        }
+                    ]
+                },
+                {
+                    "accion": "MDV",
+                    "cobrable": false,
+                    "ejecutada": true,
+                    "codigo": "AV303",
+                    "valor": "RETIRO DE MATERIAL MD",
+                    "materiales": [
+                        {
+                            "codigo": "464742",
+                            "valor": "T1 EL\/MECANIC-464742",
+                            "grupo": "MEDIDORES",
+                            "cantidad": "-1",
+                            "cobrable": false
+                        }
+                    ]
+                },
+                {
+                    "accion": "RI",
+                    "cobrable": false,
+                    "ejecutada": true,
+                    "codigo": "AV341",
+                    "valor": "IRREGULARIDAD VISBLE MEDIDOR ENVIADO A LABORATORIO",
+                    "materiales": []
+                }
+            ]
+        },
+        {
+            "accion": "RA",
+            "cobrable": false,
+            "ejecutada": true,
+            "codigo": "AV305",
+            "valor": "X SUSP. DEL SERVICIO<TPOS>",
+            "materiales": [],
+            "children": []
+        }
+    ]
+}
